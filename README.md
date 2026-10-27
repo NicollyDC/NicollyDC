@@ -1,4 +1,4 @@
-# Hi there, I'm Nicolly Dias Cruz 👋
+# Hi there, I'm Nicolly 👋
 
 🎓 **Information Systems Student** @ UCL (Expected Graduation: Early 2027)  
 💻 **Focus:** Back-End Development, Data Processing & Process Automation  
