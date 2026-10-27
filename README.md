@@ -24,7 +24,8 @@ I enjoy building applications that solve real business problems, transforming ra
 
 |  |  |
 |---|---|
-| **Looking for** | Internship / junior roles in back-end, data, or automation |
+| **Looking for** | Internships and junior roles in software development, data, or automation, in Brazil or internationally |
+| **Work preferences** | Open to remote opportunities and relocation |
 | **Exploring** | Distributed systems, microservices, security-oriented data processing |
 | **Languages** | Portuguese (native) · English (C1, certified) |
 
