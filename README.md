@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-NicollyDC-181717?style=flat-square&logo=github)](https://github.com/NicollyDC)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolly_Dias_Cruz-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nicolly-dias-cruz-596a2a2bb)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicollydiascruz2@gmail.com)
+
 
 </div>
 
